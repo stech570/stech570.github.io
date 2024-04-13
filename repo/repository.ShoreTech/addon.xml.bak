@@ -8,8 +8,8 @@
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>REPO_NAME_HERE</summary>
-        <description>DESCRIPTION OF YOUR REPO HERE</description>
+        <summary>ShoreTechRepo</summary>
+        <description>ShoretechRepo</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
         <assets>
